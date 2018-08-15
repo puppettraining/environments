@@ -17,3 +17,6 @@ mod 'testrepo',
    :git => 'https://github.com/puppettraining/testrepo.git',
    :branch => 'master'
 
+mod 'apache'
+   :git => 'https://github.com/puppettraining/apache.git'
+   :branch => 'master;
